@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio 2</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="telefono">Teléfono</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnOk">Ok</string>
+
+</resources>
